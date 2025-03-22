@@ -1,2 +1,2 @@
-mod binary_search_tree;
-mod singly_linked_list;
+pub mod binary_search_tree;
+pub mod singly_linked_list;
